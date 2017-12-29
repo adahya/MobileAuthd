@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
-if '__name__' == '__main__':
-    print("Starting Application")
+if "__name__" == "__main__":
+    print("Start Application")
